@@ -1,4 +1,5 @@
-<strong> VEnc: A Video Security Application </strong>
+# <strong> VEnc: A Video Security Application </strong>
+</br></br>
 A simple flask application to encrypt/decrypt video files
 The main idea behind this study is to use a single private key to both encrypt
 and decrypt the desired video. The length of the private key is not fixed here and it can

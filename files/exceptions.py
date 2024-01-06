@@ -1,0 +1,2 @@
+class VException(Exception):
+    pass
